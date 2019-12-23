@@ -1,0 +1,8 @@
+﻿  DodgeGame.cpp
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(192,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(197,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(204,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(209,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\DodgeGame\DodgeGame.cpp(228,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  DodgeGame.vcxproj -> C:\Users\ramor11k\source\repos\DodgeGame\x64\Debug\DodgeGame.exe
